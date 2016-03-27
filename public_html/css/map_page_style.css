@@ -1,0 +1,150 @@
+  #button_logo {
+  	width: 20%;
+    min-width: 180px;
+  }
+
+  li.name{
+    max-width: 200px;
+  }
+
+  body {
+  	width: 100%;
+  	margin-left: 0px;
+  	margin-right: 0px;
+  	padding-left: 0px;
+  	padding-right: 0px;
+    background-color: #EEEEEE;
+  }
+
+  .content {
+    background-color: #EEEEEE;
+    width: 98%;
+  }
+
+  #map_div {
+
+    
+    padding-left: 0px;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+
+}
+
+#mothersidebar{
+  padding-right: 0px;
+  margin-left: 0px;
+  padding-left: 5px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  margin-top: 0px;
+  padding-top: 10px;
+}
+
+  #sidebar {
+    overflow: scroll;
+    overflow-x: hidden;
+    height: 93%;
+    padding-right: 5px;
+    margin-right: 0px;
+  }
+
+  .profilepic {
+        width: 100%;
+        height: auto;
+        max-width: 100px;
+        max-height: 100px;
+        box-shadow: 0 0 10px #4f4f4f;
+        border-radius: 50px;
+      }
+  #selectedstar {
+    color:#ff8a00;
+  }
+  #noselectedstar {
+    color:#aaa;
+  }
+  #jobslarge {
+    font-size: 150%;
+  }
+  .row .expertexpand
+  {
+    width: 100%;
+    margin: auto;
+  }
+  .row .expertorder
+  {
+    width: 100%;
+    margin: auto;
+  }
+.searchRow {
+/*margin-top:5px;
+  height: 100px;*/
+  background-color: #FFF;
+  border: none;
+  width: 100%;
+  overflow: hidden;
+}
+.searchRow2 {
+  overflow: hidden;
+}
+
+.button {
+  background-color: #FA8900;
+}
+#magn{
+  background-color: #000;
+  font-family: "foundation-icons";
+  src: url("../foundation-icons/foundation-icons.eot");
+  src: url("../foundation-icons/foundation-icons.eot?#iefix") format("embedded-opentype"),
+       url("../foundation-icons/foundation-icons.woff") format("woff"),
+       url("../foundation-icons/foundation-icons.ttf") format("truetype"),
+       url("../foundation-icons/foundation-icons.svg#fontcustom") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  content: "\f16c";
+}
+
+.callgray{
+  background-color: #EEEEEE;
+  border: none;
+  
+
+}
+
+.card {
+  background-color: white;
+cursor:pointer;
+box-shadow: 5px 5px 5px #888888;
+}
+
+.jobsCount {
+ display:inline-block; 
+float:right;
+}
+.nameHeading {
+display:inline-block; 
+}
+
+
+.fadeIcon{
+color:rgb(205, 205, 205);
+font-size:25px;
+vertical-align:top;}
+
+.availableTimes {
+display:inline-block;
+}
+
+.dropdownIcon {
+  margin-left: 70px!important;
+  font-size: 35px!important;
+  vertical-align: bottom;
+}
+
+#unselectedstar {
+	color:#ddd;
+}

@@ -1,0 +1,80 @@
+  #button_logo {
+  	width: 20%;
+    min-width: 180px;
+  }
+
+  li.name{
+    max-width: 200px;
+  }
+
+  body {
+  	width: 100%;
+  	margin-left: 0px;
+  	margin-right: 0px;
+  	padding-left: 0px;
+  	padding-right: 0px;
+    background-color: #EEEEEE;
+  }
+
+  .content {
+    background-color: #EEEEEE;
+    width: 98%;
+  }
+
+  #map_div {
+
+    height: 100%;
+
+}
+  #sidebar {
+    overflow: scroll;
+    height: 93%;
+  }
+
+  .profilepic {
+        width: 100%;
+        height: auto;
+        max-width: 100px;
+        max-height: 100px;
+        box-shadow: 0 0 10px #4f4f4f;
+        border-radius: 50px;
+      }
+  #selectedstar {
+    color:#ff8a00;
+  }
+  #noselectedstar {
+    color:#aaa;
+  }
+  #jobslarge {
+    font-size: 150%;
+  }
+  .row .expertexpand
+  {
+    width: 100%;
+    margin: auto;
+  }
+  .row .expertorder
+  {
+    width: 100%;
+    margin: auto;
+  }
+.searchRow {
+/*margin-top:5px;
+  height: 100px;*/
+  background-color: #FFF;
+  border: none;
+}
+
+.button {
+  background-color: #FA8900;
+}
+
+.callgray{
+  background-color: #EEEEEE;
+  border: none;
+
+}
+
+.card {
+  background-color: white;
+}
